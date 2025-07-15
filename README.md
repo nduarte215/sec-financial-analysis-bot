@@ -46,7 +46,7 @@ A conversational AI chatbot designed to extract, analyze, and summarize financia
 - Time-series visualizations
 - Multilingual chatbot capability
 
-- 🧠 Author
+** Author**
 Developed by Nasly Duarte — AI Student & Financial Operational Accounting
 Contact: www.linkedin.com/in/naslyduarte
 
