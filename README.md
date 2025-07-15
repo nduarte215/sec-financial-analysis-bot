@@ -2,6 +2,13 @@
 
 A conversational AI chatbot designed to extract, analyze, and summarize financial data from SEC 10-K filings. This project leverages Natural Language Processing (NLP) and data parsing techniques to make SEC reports more accessible and user-friendly.
 
+## 💼 Use Case
+
+Manually analyzing lengthy SEC filings can be time-consuming and error-prone. This project automates the extraction of meaningful financial data—revenues, expenditures, liquidity, and operational details—from SEC-formatted documents. It's ideal for:
+- Accountants reviewing corporate reports
+- Financial analysts looking for key metrics
+- Consultants building dashboards or reports
+- 
 ##  Features
 
 -  **Financial Data Extraction**: Parses key financial metrics (Revenue, Net Income, etc.) from 10-K reports.
