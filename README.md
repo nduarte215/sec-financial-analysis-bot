@@ -1,15 +1,15 @@
-# SEC Financial Chatbot 💼🤖
+# SEC Financial Chatbot 
 
 A conversational AI chatbot designed to extract, analyze, and summarize financial data from SEC 10-K filings. This project leverages Natural Language Processing (NLP) and data parsing techniques to make SEC reports more accessible and user-friendly.
 
-## 🚀 Features
+##  Features
 
-- 📊 **Financial Data Extraction**: Parses key financial metrics (Revenue, Net Income, etc.) from 10-K reports.
-- 💬 **Chatbot Interface**: Answers natural language questions about company performance using extracted data.
-- 🧠 **LLM Integration**: Utilizes large language models to interpret and summarize financial text.
-- 📂 **Structured Output**: Saves results to Excel for further analysis or reporting.
+-  **Financial Data Extraction**: Parses key financial metrics (Revenue, Net Income, etc.) from 10-K reports.
+-  **Chatbot Interface**: Answers natural language questions about company performance using extracted data.
+   **LLM Integration**: Utilizes large language models to interpret and summarize financial text.
+-  **Structured Output**: Saves results to Excel for further analysis or reporting.
 
-## 🧱 Project Structure
+##  Project Structure
 .
 ├── sec.Financial_Data_Extraction.ipynb # Data extraction notebook
 ├── sec_Financial_Chatbot (1).ipynb # Chatbot interaction notebook
@@ -18,7 +18,7 @@ A conversational AI chatbot designed to extract, analyze, and summarize financia
 ├── requirements.txt # Python dependencies
 └── LICENSE # Project license
 
-## 🛠️ How It Works
+##  How It Works
 
 1. **Data Extraction**:
    - Parses raw SEC 10-K filings (via EDGAR or local input).
@@ -33,27 +33,27 @@ A conversational AI chatbot designed to extract, analyze, and summarize financia
 3. **LLM Enhancement** *(optional)*:
    - Can be extended with OpenAI/GPT APIs for deeper insights.
 
-## 🧪 Sample Questions
+##  Sample Questions
 
 - “How did the company’s revenue change in 2022?”
 - “What are the main expenses reported?”
 - “Summarize the risk factors section.”
 
-## 📈 Future Improvements
+##  Future Improvements
 
 - Integrate real-time EDGAR scraping
 - UI/UX for non-technical users
 - Time-series visualizations
 - Multilingual chatbot capability
 
-## 🔧 Requirements
+##  Requirements
 
 Install dependencies:
 
 ```bash
 pip install -r requirements.txt
 
-## 🔧 Requirements
+##  Requirements
 
 Install dependencies using:
 
