@@ -48,12 +48,17 @@ Manually analyzing lengthy SEC filings can be time-consuming and error-prone. Th
 
 ##  Future Improvements
 
-- Integrate real-time EDGAR scraping
+- Integrate real-time EDGAR scraping using API
 - UI/UX for non-technical users
-- Time-series visualizations
 - Multilingual chatbot capability
+- Add RAG model integration for better document comprehension
+- Deploy a Streamlit chatbot to answer financial questions
+- Build APIs to pull real-time SEC filings
+- Translate insights into Time-series visualizations & dashboards
+
 
 ** Author**
+I'm an AI + finance consultant leveraging automation to simplify complex workflows for small businesses and accounting teams. This project reflects my mission to empower others with tools that save time and increase accuracy.
 Developed by Nasly Duarte — AI Student & Financial Operational Accounting
 Contact: www.linkedin.com/in/naslyduarte
 
